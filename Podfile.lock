@@ -1,0 +1,20 @@
+PODS:
+  - MarqueeLabel (1.5.0)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core
+    - NJKWebViewProgress/ProgressView
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - StreamingKit (0.1.22)
+
+DEPENDENCIES:
+  - MarqueeLabel (~> 1.5.0)
+  - NJKWebViewProgress
+  - StreamingKit
+
+SPEC CHECKSUMS:
+  MarqueeLabel: 7ff45679a60829276e5323792ccf6aa619100e09
+  NJKWebViewProgress: 721b57080c840c76f70ff6c2dda4f836ee1b27c1
+  StreamingKit: 9894c3c16383989d37172ca9b024591e6d51f0c5
+
+COCOAPODS: 0.32.1
