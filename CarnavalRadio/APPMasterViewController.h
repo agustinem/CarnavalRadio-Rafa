@@ -12,6 +12,7 @@
 @interface APPMasterViewController : UIViewController <NSXMLParserDelegate, UITableViewDataSource,UITableViewDelegate>
 
 @property (strong, nonatomic) IBOutlet UITableView *tableView;
+@property (strong, nonatomic) IBOutlet UITableView *tableView2;
 
 - (IBAction)buttonPlayMusic:(id)sender;
 
